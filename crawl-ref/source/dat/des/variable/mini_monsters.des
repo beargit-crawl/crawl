@@ -8756,11 +8756,11 @@ KMONS:  2 = caustic shrike zombie / shard shrike zombie /\
 : if you.in_branch("Crypt") or you.in_branch("Swamp") then
 KMONS:  3 = kraken zombie / kraken simulacrum
 KMONS:  4 = electric eel
-KMONS:  6 = sky shark zombie
+KMONS:  6 = wind drake zombie
 : else
 KMONS:  3 = kraken
 KMONS:  4 = electric eel
-KMONS:  6 = sky shark
+KMONS:  6 = wind drake
 : end
 KMONS:  s = skeletal warrior
 KMONS:  S = wight band
@@ -8803,6 +8803,7 @@ wwwwwxxxxxxmxmxmx.....wwwwwwwwwwwwwwwwww
   wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
   WWWWWWWwwwwwwwWWWwWwWwwWWWwwwwwwww
 ENDMAP
+
 
 
 ###################################################################
